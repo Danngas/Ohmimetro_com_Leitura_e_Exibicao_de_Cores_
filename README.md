@@ -7,7 +7,7 @@
 
 Daniel Silva de Souza
 
-### [Video Demonstrativo do Projeto](https://youtu.be/wP9TNFgGwGA)
+### [Video Demonstrativo do Projeto](https://youtu.be/hpTJ-Xu3Kp4)
 
 Este projeto consiste em um **ohmímetro digital** baseado em **RP2040** (Raspberry Pi Pico ou BitDogLab), que realiza:
 
