@@ -54,7 +54,6 @@ Facilitar a **identificação automática** de resistores pelo seu valor medido,
   - Nome da cor de cada faixa (1ª, 2ª e 3ª).
   - Código numérico das faixas.
   - Valor da resistência lido (Rx) e valor comercial encontrado.
-  - Resistores representados estilizados com linhas e retângulos no display.
 - Implementação do botão B para entrar no modo BOOTSEL da placa.
 
 
@@ -123,7 +122,6 @@ Facilitar a **identificação automática** de resistores pelo seu valor medido,
 | SDA (Display OLED) | GP14 |
 | SCL (Display OLED) | GP15 |
 | ADC Entrada (Resistor Testado) | GP28 |
-| Botão A | GP5 |
 | Botão B (BOOTSEL) | GP6 |
 
 > ⚡ Alimentação feita diretamente pela USB.
@@ -141,5 +139,5 @@ Facilitar a **identificação automática** de resistores pelo seu valor medido,
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/SEU-USUARIO/bitdoglab-ohmimetro-codigo-cores.git
+   git clone [[https://github.com/SEU-USUARIO/bitdoglab-ohmimetro-codigo-cores.git]
 
